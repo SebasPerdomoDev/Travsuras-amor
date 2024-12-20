@@ -1,10 +1,13 @@
 
 Para desarrollar una plataforma educativa con React y Node.js, te recomiendo usar las versiones actuales de soporte estable (LTS) y compatibles con la comunidad. Aquí te doy las versiones sugeridas y los enlaces para descargar:
 
-React
+*React*
 Versión recomendada: Última versión estable.
 React se mantiene actualizado constantemente, y sus últimas versiones incluyen mejoras de rendimiento y características modernas.
 Verifica la versión actualizada en la página oficial de React.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 Instalación:
 Asegúrate de tener Node.js instalado (ver más abajo).
 Usa Create React App o Vite para inicializar tu proyecto:
@@ -21,6 +24,9 @@ Node.js
 Versión recomendada: Node.js 18 LTS o superior (actualmente 18.x o 20.x son estables y ampliamente soportadas).
 Node.js 18 incluye soporte a largo plazo (LTS) y es ideal para proyectos en producción.
 Verifica la versión más reciente en la página oficial de Node.js.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 Instalación:
 Descarga Node.js desde Node.js Official Downloads.
 Selecciona la versión LTS para estabilidad.
@@ -38,9 +44,9 @@ Express.js (para Node.js): Framework para backend.
 bash
 Copiar código
 npm install express
-Base de datos: Puedes usar PostgreSQL o MongoDB.
-Framework UI:
-Material UI (MUI): Para una interfaz profesional.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
 bash
 Copiar código
 npm install @mui/material @emotion/react @emotion/styled
